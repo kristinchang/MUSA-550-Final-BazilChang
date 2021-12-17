@@ -13,9 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Toolkit for a Green New Deal"
-authors: "Asha Bazil and Kristin Chang"
-description: "MUSA 550 Fall 2021 Final Project"
+title: "MUSA550 Fall2021 Final Project"
 twitter_username:
 github_username:
 minimal_mistakes_skin: default
@@ -55,9 +53,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Nick Hand"
+  name: "Toolkit for a Green New Deal"
   avatar:
-  bio: "Director of Finance, Data, and Policy, Philadelphia Controller"
+  bio: "Asha Bazil and Kristin Chang"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
