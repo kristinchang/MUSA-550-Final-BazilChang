@@ -1,6 +1,6 @@
 ---
-title: "Welcome to GitHub Pages!"
-date: 2019-04-18
+title: "About this Toolkit"
+date: 2020-20-12
 categories:
   - blog
 tags:
@@ -8,24 +8,12 @@ tags:
   - update
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and commit your changes to to the repository. GitHub will automatically rebuild your site. Wait a few minutes and then refresh the site link to see the new changes. There are two main ways to make changes to your site:
+This toolkit is part of an academic excerise for which we imagine advising Green New Deal policy makers as they work to focus funding and advocacy efforts on the regions of the country most impacted by fossil fuel production and climate change. The toolkit includes 3 pages.
 
-- Edit files within your in the browser at GitHub.com
-- Clone down your repository and make updates locally, then push them to your GitHub repository.
+**Fossil Fuel Production Dashboard**
 
-**To add new posts:** Add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+**Air Pollution(2001-2014) Visualization**
 
-Jekyll also offers powerful support for code snippets:
+**Senitment Analysis: #GreenNewDeal**
+We illuminate the sentiments surrounding the GND to help allocate community outreach and communication resources by analyzing tweets with the hashtag #GreenNewDeal. 
 
-```python
-def print_message(message):
-  print(message)
-
-print_message("Welcome to GitHub Pages")
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
