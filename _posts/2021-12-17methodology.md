@@ -13,5 +13,4 @@ The following sections describe the production process for each of the toolkit e
 
 **Air Pollution(2001-2014) Visualization**
 
-**Senitment Analysis: #GreenNewDeal**
-
+**Sentiment Analysis: #GreenNewDeal**
