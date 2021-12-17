@@ -15,5 +15,6 @@ This toolkit is part of an academic excerise for which we imagine advising Green
 **Air Pollution(2001-2014) Visualization**
 
 **Senitment Analysis: #GreenNewDeal**
+
 We illuminate the sentiments surrounding the GND to help allocate community outreach and communication resources by analyzing tweets with the hashtag #GreenNewDeal. 
 
