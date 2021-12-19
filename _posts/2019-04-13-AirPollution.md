@@ -5,7 +5,7 @@ published: true
 tags: [dataviz, hvplot, holoviews]
 hv-loader:
   hv-chart-1: ["charts/ozHvplot.html", "500"] # second argument is the height
-  hv-chart-2: ["charts/pmHvplot.html", "500"
+  hv-chart-2: ["charts/pmHvplot.html", "500"]
 toc: true
 toc_sticky: true
 ---
